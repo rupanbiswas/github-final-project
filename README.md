@@ -27,8 +27,6 @@ Its useful for simple calculations.
 
 To run my application you simply need to clone the project and run the html file.
 
-## Screenshot
-![calcscreen](https://cloud.githubusercontent.com/assets/19841485/21074304/ac4ee00c-bf1b-11e6-9e4f-a834162d418f.JPG)
 
 Issues
 ==========
